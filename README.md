@@ -9,7 +9,6 @@ to create new hello-world cargo package; --bin means binary package
 
 ```
 cargo new hello-world --bin
-
 ```
 
 ```diff
