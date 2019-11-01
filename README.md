@@ -34,6 +34,7 @@ git commit -m "message or remarks about the action done"
 git push origin
 git status
 ```
+<br />
 
 ###### GitHub formatting
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
