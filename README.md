@@ -35,3 +35,19 @@ https://primer.style/css/utilities/colors
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
+Add image into GitHub
+https://www.youtube.com/watch?v=hHbWF1Bvgf4
+
+First upload the image into the GitHub repository.
+
+Use this command to upload the image directly into GitHub README.md content
+```
+![](image.jpg)
+
+Or use this command to utilize HTML adjustment; the width and height will be automatically adjusted to appropriate size based on the pixels defined.
+```
+<img src="image.jpg" width="100">
+```
+
+
+
