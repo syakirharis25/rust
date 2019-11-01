@@ -7,7 +7,7 @@ Rust is an open-source systems programming language created by Mozilla and a com
 
 Further explanation about Rust programming language : https://developer.mozilla.org/en-US/docs/Mozilla/Rust
 
-To create new hello-world cargo package; --bin means binary package.
+To create new Rust cargo project, in this case hello-world cargo project package; --bin means binary package.
 
 ```
 cargo new hello-world --bin
