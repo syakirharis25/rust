@@ -43,6 +43,7 @@ First upload the image into the GitHub repository.
 Use this command to upload the image directly into GitHub README.md content
 ```
 ![](image.jpg)
+```
 
 Or use this command to utilize HTML adjustment; the width and height will be automatically adjusted to appropriate size based on the pixels defined.
 ```
