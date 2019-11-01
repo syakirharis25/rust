@@ -50,7 +50,7 @@ https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`     <br />
 refer to : https://htmlcolorcodes.com
 
-Add image into GitHub < br/>
+Add image into GitHub
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 First upload the image into the GitHub repository.
