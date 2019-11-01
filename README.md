@@ -26,6 +26,11 @@ cargo new hello-world --bin
 ###### GitHub formatting
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
+```html
+   // code for coloring
 <div class="text-purple mb-2">
   .text-purple on white
 </div>
+```
+
+
