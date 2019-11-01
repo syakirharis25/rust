@@ -5,7 +5,5 @@ Rust is an open-source systems programming language created by Mozilla and a com
 
 Further explanation about Rust programming language : https://developer.mozilla.org/en-US/docs/Mozilla/Rust
 
-```
-test
-
+```test
 ```
