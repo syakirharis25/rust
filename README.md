@@ -15,7 +15,9 @@ To add Rust cargo folders into GitHub, it must be done, one by one.
 ```
 git clone <name of the repository>
 git status
-git add <first folder> <second folder> <third folder>
+git add <first folder> 
+git add <second folder> 
+git add <third folder>
 git commit -m "message or remarks about the action done"
 git push origin
 ```
