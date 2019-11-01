@@ -1,5 +1,5 @@
 # Rust Programming Language
-My works related to rust programming language. Official website : https://www.rust-lang.org/
+My works related to Rust programming language. Official website : https://www.rust-lang.org/
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
 
