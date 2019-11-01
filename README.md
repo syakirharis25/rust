@@ -34,7 +34,7 @@ git commit -m "message or remarks about the action done"
 git push origin
 git status
 ```
-<br />
+---
 
 ###### GitHub formatting
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
@@ -64,5 +64,5 @@ Or use this command to utilize HTML adjustment; the width and height will be aut
 <img src="image.jpg" width="100">
 ```
 
-
-
+List of GitHub markdown formatting
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
