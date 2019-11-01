@@ -5,10 +5,19 @@ Rust is an open-source systems programming language created by Mozilla and a com
 
 Further explanation about Rust programming language : https://developer.mozilla.org/en-US/docs/Mozilla/Rust
 
-to create new hello-world cargo package; --bin means binary package
+To create new hello-world cargo package; --bin means binary package.
 
 ```
 cargo new hello-world --bin
+```
+
+To add Rust cargo folders into GitHub, it must be done, one by one.
+```
+git clone <name of the repository>
+git status
+git add <first folder> <second folder> <third folder>
+git commit -m "message or remarks about the action done"
+git push origin
 ```
 
 ```diff
