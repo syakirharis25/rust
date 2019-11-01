@@ -20,6 +20,17 @@ git add <second folder>
 git add <third folder>
 git commit -m "message or remarks about the action done"
 git push origin
+git status
+```
+
+If there is any changes in the GitHub (remote) repository, first we need to pull the changes into our local machine, before adding the new content into GitHub
+```
+git status
+git pull origin master
+git add <file>
+git commit -m "message or remarks about the action done"
+git push origin
+git status
 ```
 
 ###### GitHub formatting
