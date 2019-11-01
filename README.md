@@ -9,4 +9,9 @@ to create new hello-world cargo package; --bin means binary package
 
 ```
 cargo new hello-world --bin
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
 ```
