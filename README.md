@@ -3,6 +3,8 @@ My works related to rust programming language. Official website : https://www.ru
 
 ![](mozilla.jpg) ![](rust.svg)
 
+<img src="mozilla.jpg" width="100"> <img src="rust.svg" width="100">
+
 Rust is an open-source systems programming language created by Mozilla and a community of volunteers, designed to help developers create fast, secure applications which take full advantage of the powerful features of modern multi-core processors. It prevents segmentation faults and guarantees thread safety, all with an easy-to-learn syntax.
 
 Further explanation about Rust programming language : https://developer.mozilla.org/en-US/docs/Mozilla/Rust
