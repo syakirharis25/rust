@@ -8,31 +8,36 @@ Rust is an open-source systems programming language created by Mozilla and a com
 Further explanation about Rust programming language : https://developer.mozilla.org/en-US/docs/Mozilla/Rust
 
 To create new Rust cargo project, in this case hello-world cargo project package; --bin means binary package.
+```
+$ cargo new hello-world --bin
+```
 
+To run the Rust cargo project, in this case hello-world cargo project package;
 ```
-cargo new hello-world --bin
+$ cd hello-world
+$ cargo run
 ```
 
-To add Rust cargo folders into GitHub, it must be done, one by one.
+To add Rust cargo folders into GitHub, it must be done, one by one, because there is .gitignore file in each folder.
 ```
-git clone <name of the repository>
-git status
-git add <first folder> 
-git add <second folder> 
-git add <third folder>
-git commit -m "message or remarks about the action done"
-git push origin
-git status
+$ git clone <name of the repository>
+$ git status
+$ git add <first folder> 
+$ git add <second folder> 
+$ git add <third folder>
+$ git commit -m "message or remarks about the action done"
+$ git push origin
+$ git status
 ```
 
 If there is any changes in the GitHub (remote) repository, first we need to pull the changes into our local machine, before adding the new content into GitHub
 ```
-git status
-git pull origin master
-git add <file>
-git commit -m "message or remarks about the action done"
-git push origin
-git status
+$ git status
+$ git pull origin master
+$ git add <file>
+$ git commit -m "message or remarks about the action done"
+$ git push origin
+$ git status
 ```
 ---
 
