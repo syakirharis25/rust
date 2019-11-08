@@ -54,7 +54,7 @@ PS graph
 
 To exit from the customized graph command, press "q" on your keyboard.
 
-###### GitHub formatting
+GitHub formatting
 ---
 
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
