@@ -15,12 +15,14 @@ Official documentation : https://doc.rust-lang.org/1.8.0/book/index.html, https:
 
 Further explanation about Rust programming language : https://developer.mozilla.org/en-US/docs/Mozilla/Rust
 
-Rust programming language is part of Mozilla Research : https://research.mozilla.org
+Rust programming language is part of Mozilla Research : https://research.mozilla.org/rust
 
+```
 Mozilla Headquarters
 331 E. Evelyn Ave.
 Mountain View, CA 94041
 Map: https://goo.gl/maps/dy6SE
+```
 
 ---
 
