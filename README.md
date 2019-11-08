@@ -23,7 +23,7 @@ Mozilla Headquarters
 Mountain View, CA 94041
 United States of America
 ```
-Mozilla Headquarters Map: https://goo.gl/maps/dy6SE
+Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
 ---
 
