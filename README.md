@@ -42,7 +42,7 @@ $ git status
 ```
 For better view of the where your Git HEAD is located, try this commands below;
 ```
-$ alias graph=”git log --all --decorate --oneline --graph"
+$ alias graph="git log --all --decorate --oneline --graph"
 $ graph
 ```
 
