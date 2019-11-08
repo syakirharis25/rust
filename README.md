@@ -1,7 +1,10 @@
 # Rust Programming Language
-My works related to Rust programming language. Official website : https://www.rust-lang.org/
+My works related to Rust programming language. 
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
+
+Official website : https://www.rust-lang.org/
+Official documentation : https://doc.rust-lang.org/1.8.0/book/index.html, https://devdocs.io/rust
 
 Rust is an open-source systems programming language created by Mozilla and a community of volunteers, designed to help developers create fast, secure applications which take full advantage of the powerful features of modern multi-core processors. It prevents segmentation faults and guarantees thread safety, all with an easy-to-learn syntax.
 
