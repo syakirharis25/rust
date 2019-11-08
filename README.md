@@ -51,6 +51,8 @@ If using Microsoft Windows PowerShell as the command line interpreter (CLI), the
 PS function graph { git log --all --decorate --oneline --graph }
 PS graph
 ```
+
+To exit from the customized graph command, press "q" on your keyboard. 
 ---
 
 ###### GitHub formatting
