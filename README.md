@@ -59,7 +59,7 @@ PS function graph { git log --all --decorate --oneline --graph }
 PS graph
 ```
 
-To only see the latest commit only, try this command, *-1* means only show the latest 1 commit
+To only see the latest commit only, try this command, **-1** means only show the latest 1 commit
 ```
 $ git log --oneline -1
 ```
