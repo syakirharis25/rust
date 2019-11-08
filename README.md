@@ -40,6 +40,17 @@ $ git commit -m "message or remarks about the action done"
 $ git push origin
 $ git status
 ```
+For better view of the where your Git HEAD is located, try this commands below;
+```
+$ alias graph=”git log --all --decorate --oneline --graph"
+$ graph
+```
+
+If using Microsoft Windows PowerShell as the command line interpreter (CLI), then use this commands below;
+```
+PS function graph { git log --all --decorate --oneline --graph }
+PS graph
+```
 ---
 
 ###### GitHub formatting
