@@ -121,4 +121,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Rust Programming Language Books
 ---
-<img src="rust books.jpg" width="300">
+<img src="rust books.jpg" width="700">
