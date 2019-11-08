@@ -21,8 +21,8 @@ Rust programming language is part of Mozilla Research : https://research.mozilla
 Mozilla Headquarters
 331 E. Evelyn Ave.
 Mountain View, CA 94041
-Map: https://goo.gl/maps/dy6SE
 ```
+Map: https://goo.gl/maps/dy6SE
 
 ---
 
