@@ -52,10 +52,11 @@ PS function graph { git log --all --decorate --oneline --graph }
 PS graph
 ```
 
-To exit from the customized graph command, press "q" on your keyboard. 
----
+To exit from the customized graph command, press "q" on your keyboard.
 
 ###### GitHub formatting
+---
+
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 ```diff
 - text in red
