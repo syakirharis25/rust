@@ -18,6 +18,13 @@ $ cd hello-world
 $ cargo run
 ```
 
+By default all <foldername>\<src>\main.rs will have this code inside them.
+```
+  fn main() {
+    println!("Hello, world!");
+}
+```
+
 To add Rust cargo folders into GitHub, it must be done, one by one, because there is .gitignore file in each folder.
 ```
 $ git clone <name of the repository>
