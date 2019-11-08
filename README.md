@@ -18,7 +18,7 @@ $ cd hello-world
 $ cargo run
 ```
 
-By default all <foldername>\<src>\main.rs will have this code inside them. test
+By default all ####foldername\####src\main.rs will have this code inside them.
 ```
   fn main() {
     println!("Hello, world!");
