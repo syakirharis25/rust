@@ -11,6 +11,10 @@ Rust makes systems programming accessible by combining power with ergonomics. Us
 
 Official website : https://www.rust-lang.org
 
+Official development blog : https://blog.rust-lang.org
+
+Official GitHub repository : https://github.com/rust-lang
+
 Official conference (North America region) : https://rustconf.com
 
 Official documentation : https://doc.rust-lang.org/1.8.0/book/index.html, https://devdocs.io/rust
