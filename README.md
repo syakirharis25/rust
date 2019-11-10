@@ -23,6 +23,8 @@ Further explanation about Rust programming language : https://developer.mozilla.
 
 Rust programming language is part of Mozilla Research : https://research.mozilla.org/rust
 
+Mozilla wiki related to Rust programming language development : https://wiki.mozilla.org/Areweyet
+
 ```
 Mozilla Headquarters
 331 E. Evelyn Ave.
