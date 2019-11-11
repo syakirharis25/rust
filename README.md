@@ -91,7 +91,7 @@ $ graph
 ```
 
 If using Microsoft Windows PowerShell as the command line interpreter (CLI), then use this commands below;
-In Atom, first you must install **_platformio-ide-terminal_** package to display the Powershell terminal in Atom.
+In Atom, first you must install **_platformio-ide-terminal_** package to display the Powershell terminal in Atom by pressing **Ctrl + `** on your keyboard
 ```
 PS function graph { git log --all --decorate --oneline --graph }
 PS graph
