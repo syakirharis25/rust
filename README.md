@@ -106,6 +106,8 @@ To exit from the customized graph command, press **Q** button on your keyboard.
 
 To see whether the file or folder already added into GitHub repository, refresh the GitHub web page, by hitting the **Ctrl + R** button on your keyboard, works on Google Chrome, Firefox Mozilla and Microsoft Edge browser.
 
+To find or search back the file or folder that you already added into GitHub, press **Ctrl + F** on your keyboard, type the name of the file or folder that you already added into GitHub, and press **Enter**.
+
 GitHub formatting
 ---
 
