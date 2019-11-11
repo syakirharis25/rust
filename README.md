@@ -102,7 +102,9 @@ To only see the latest commit only, try this command, **-1** means only show the
 $ git log --oneline -1
 ```
 
-To exit from the customized graph command, press "q" on your keyboard.
+To exit from the customized graph command, press **Q** button on your keyboard.
+
+To see whether the file or folder already added into GitHub repository, refresh the GitHub web page, by hitting the **Ctrl + R** button on your keyboard, works on Google Chrome, Firefox Mozilla and Microsoft Edge browser.
 
 GitHub formatting
 ---
