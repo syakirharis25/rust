@@ -25,6 +25,8 @@ Rust programming language is part of Mozilla Research : https://research.mozilla
 
 Mozilla wiki related to Rust programming language development : https://wiki.mozilla.org/Areweyet
 
+Companies currently using Rust programming language : https://www.rust-lang.org/production/users
+
 Companies hiring for Rust programming language project development : https://rustjobs.io
 
 ```
