@@ -44,7 +44,7 @@ To create new Rust cargo project, in this case hello-world cargo project package
 $ cargo new hello-world --bin
 ```
 
-To open the newly created cargo project package folder, by using Atom text-editor by GitHub, https://atom.io
+To open the newly created cargo project package folder, using Atom text-editor by GitHub, https://atom.io
 ```
 $ atom .
 ```
@@ -91,6 +91,7 @@ $ graph
 ```
 
 If using Microsoft Windows PowerShell as the command line interpreter (CLI), then use this commands below;
+In Atom, first you must install **_platformio-ide-terminal_** package to display the Powershell terminal in Atom by pressing **Ctrl + `** on your keyboard.
 ```
 PS function graph { git log --all --decorate --oneline --graph }
 PS graph
@@ -101,7 +102,9 @@ To only see the latest commit only, try this command, **-1** means only show the
 $ git log --oneline -1
 ```
 
-To exit from the customized graph command, press "q" on your keyboard.
+To exit from the customized graph command, press **Q** button on your keyboard.
+
+To see whether the file or folder already added into GitHub repository, refresh the GitHub web page, by hitting the **Ctrl + R** button on your keyboard, works on Google Chrome, Firefox Mozilla and Microsoft Edge browser.
 
 GitHub formatting
 ---
