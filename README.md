@@ -108,6 +108,8 @@ To see whether the file or folder already added into GitHub repository, refresh 
 
 To find or search back the file or folder that you already added into GitHub, press **Ctrl + F** on your keyboard, type the name of the file or folder that you already added into GitHub, and press **Enter**.
 
+If you need to edit multiple same thing using Atom text editor, then you can try hit **Ctrl + Alt** buttons on your keyboard, mouse click on the selection, and start editing.
+
 GitHub formatting
 ---
 
