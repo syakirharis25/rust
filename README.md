@@ -132,6 +132,8 @@ edition = '2018'
 
 The edition key affects which edition your package is compiled with. Cargo will always generate packages via **_cargo new_** with the **edition** key set to the latest edition. Setting the edition key in **[package]** will affect all targets/crates in the package, including test suites, benchmarks, binaries, examples, etc.
 
+Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part.
+
 GitHub formatting
 ---
 
