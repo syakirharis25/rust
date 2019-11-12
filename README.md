@@ -39,6 +39,16 @@ Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
 ---
 
+rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable. To check the version of your Rust compiler, simply type this below command.
+```
+$ rustc --version
+```
+
+Cargo manages three things: building our code, downloading the dependencies our code needs, and building those dependencies. If you installed Rust via the official installers you will also have Cargo. To check the version of Cargo, simply type this below command.
+```
+$ cargo --version
+```
+
 To create new Rust cargo project, in this case hello-world cargo project package; --bin means binary package.
 ```
 $ cargo new hello-world --bin
