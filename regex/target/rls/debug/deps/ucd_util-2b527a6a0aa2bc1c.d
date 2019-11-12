@@ -1,0 +1,11 @@
+C:\Users\syaki\onedrive\desktop\rust\regex\target\rls\debug\deps\ucd_util-2b527a6a0aa2bc1c.rmeta: C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\lib.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\hangul.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\ideograph.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\name.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\property.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\unicode_tables\mod.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\unicode_tables\jamo_short_name.rs
+
+C:\Users\syaki\onedrive\desktop\rust\regex\target\rls\debug\deps\ucd_util-2b527a6a0aa2bc1c.d: C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\lib.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\hangul.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\ideograph.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\name.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\property.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\unicode_tables\mod.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\unicode_tables\jamo_short_name.rs
+
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\lib.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\hangul.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\ideograph.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\name.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\property.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\unicode_tables\mod.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.5\src\unicode_tables\jamo_short_name.rs:
