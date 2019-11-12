@@ -122,6 +122,16 @@ If you need to edit multiple same thing using Atom text editor, then you can try
 
 Rust has two distinct terms that relate to the module system: **crate** and **module**. A crate is synonymous with a ‘library’ or ‘package’ in other languages. Hence **_Cargo_** as the name of Rust’s package management tool: you ship your crates to others with Cargo. Crates can produce an executable or a library, depending on the project. Each crate has an implicit root module that contains the code for that crate.
 
+You can opt in to a specific Rust Edition for your package with the edition key in **Cargo.toml**. If you don't specify the edition, it will default to 2015.
+
+```
+[package]
+# ...
+edition = '2018'
+```
+
+The edition key affects which edition your package is compiled with. Cargo will always generate packages via **_cargo new_** with the **edition** key set to the latest edition. Setting the edition key in **[package]** will affect all targets/crates in the package, including test suites, benchmarks, binaries, examples, etc.
+
 GitHub formatting
 ---
 
