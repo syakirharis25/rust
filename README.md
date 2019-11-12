@@ -120,6 +120,8 @@ To find or search back the file or folder that you already added into GitHub, pr
 
 If you need to edit multiple same thing using Atom text editor, then you can try hit **Ctrl + Alt** buttons on your keyboard, mouse click on the selection, and start editing.
 
+Rust has two distinct terms that relate to the module system: **crate** and **module**. A crate is synonymous with a ‘library’ or ‘package’ in other languages. Hence **_Cargo_** as the name of Rust’s package management tool: you ship your crates to others with Cargo. Crates can produce an executable or a library, depending on the project.
+
 GitHub formatting
 ---
 
