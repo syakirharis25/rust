@@ -39,6 +39,16 @@ Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
 ---
 
+rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable. To check the version of your Rust compiler, simply type this below command.
+```
+$ rustc --version
+```
+
+Cargo manages three things: building our code, downloading the dependencies our code needs, and building those dependencies. If you installed Rust via the official installers you will also have Cargo. To check the version of Cargo, simply type this below command.
+```
+$ cargo --version
+```
+
 To create new Rust cargo project, in this case hello-world cargo project package; --bin means binary package.
 ```
 $ cargo new hello-world --bin
@@ -109,6 +119,20 @@ To see whether the file or folder already added into GitHub repository, refresh 
 To find or search back the file or folder that you already added into GitHub, press **Ctrl + F** on your keyboard, type the name of the file or folder that you already added into GitHub, and press **Enter**.
 
 If you need to edit multiple same thing using Atom text editor, then you can try hit **Ctrl + Alt** buttons on your keyboard, mouse click on the selection, and start editing.
+
+Rust has two distinct terms that relate to the module system: **crate** and **module**. A crate is synonymous with a ‘library’ or ‘package’ in other languages. Hence **_Cargo_** as the name of Rust’s package management tool: you ship your crates to others with Cargo. Crates can produce an executable or a library, depending on the project. Each crate has an implicit root module that contains the code for that crate.
+
+You can opt in to a specific Rust Edition for your package with the edition key in **Cargo.toml**. If you don't specify the edition, it will default to 2015.
+
+```
+[package]
+# ...
+edition = '2018'
+```
+
+The edition key affects which edition your package is compiled with. Cargo will always generate packages via **_cargo new_** with the **edition** key set to the latest edition. Setting the edition key in **[package]** will affect all targets/crates in the package, including test suites, benchmarks, binaries, examples, etc.
+
+Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part. Refer to https://docs.rs documentation if using the previous version of dependencies, by typing the crate name you want to use in your Rust project.
 
 GitHub formatting
 ---
