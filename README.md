@@ -134,6 +134,8 @@ The edition key affects which edition your package is compiled with. Cargo will 
 
 Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part. Refer to https://docs.rs documentation if using the previous version of dependencies, by typing the crate name you want to use in your Rust project.
 
+A module is a collection of items: functions, structs, traits, impl blocks, and even other modules. By default, the items in a module have private visibility, but this can be overridden with the **pub** modifier. Only the public items of a module can be accessed from outside the module scope.
+
 GitHub formatting
 ---
 
