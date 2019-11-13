@@ -1,5 +1,8 @@
 # Rust Programming Language
-My works related to Rust programming language. 
+My works related to Rust programming language.
+
+# Table of Contents
+* [Rust Programming Language Books] (#books)
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
 
@@ -169,6 +172,7 @@ Or use this command to utilize HTML adjustment; the width and height will be aut
 List of GitHub markdown formatting
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+<a name="books"></a>
 Rust Programming Language Books
 ---
 <img src="rust books.jpg" width="500">
