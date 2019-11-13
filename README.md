@@ -2,7 +2,7 @@
 My works related to Rust programming language.
 
 # Table of Contents
-* [Rust Programming Language Books] (#books)
+1. [Rust Programming Language Books](#books)
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
 
