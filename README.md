@@ -8,8 +8,9 @@ My works related to Rust programming language.
 2. [Official references websites.](#websites)
 3. [Rust compiler : rustc.](#compiler)
 4. [Rust package manager : Cargo.](#cargo)
-5. [GitHub formatting.](#github)
-5. [Rust Programming Language Books](#books)
+5. [Regular expression : regex.](#regex)
+6. [GitHub formatting.](#github)
+7. [Rust Programming Language Books](#books)
 
 <a name="introduction"></a>
 ## Introduction
@@ -150,6 +151,15 @@ Before editing the Cargo.toml file, first check for the crate dependencies using
 
 A module is a collection of items: functions, structs, traits, impl blocks, and even other modules. By default, the items in a module have private visibility, but this can be overridden with the **pub** modifier. Only the public items of a module can be accessed from outside the module scope.
 
+<a name="regex"></a>
+## Regular expression : regex
+A regular expression, regex or regexp, sometimes called a rational expression, is a sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
+
+For Rust programming language regex, refer to the documentation : https://docs.rs/regex/1.3.1/regex/
+
+A concept of regex by using Atom text editor, can refer to the explanation by **Corey Schafer** YouTube channel by the title **_Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text_**
+https://www.youtube.com/watch?v=sa-TUpSx1JA&t=11s
+
 <a name="github"></a>
 ## GitHub formatting
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
@@ -197,6 +207,5 @@ sometext
 ```
 
 <a name="books"></a>
-Rust Programming Language Books
----
+## Rust programming language books
 <img src="rust books.jpg" width="500">
