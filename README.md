@@ -7,7 +7,8 @@ My works related to Rust programming language.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#websites)
 3. [Rust compiler : rustc.](#compiler)
-3. [Rust Programming Language Books](#books)
+4. [Rust package manager : Cargo.](#cargo)
+5. [Rust Programming Language Books](#books)
 
 <a name="introduction"></a>
 ## Introduction
@@ -47,12 +48,15 @@ United States of America
 ```
 Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
+<a name="compiler"></a>
 ## Rust compiler : rustc
 rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable. To check the version of your Rust compiler, simply type this below command.
 ```
 $ rustc --version
 ```
 
+<a name="cargo"></a>
+## Rust package manager : Cargo
 Cargo manages three things: building our code, downloading the dependencies our code needs, and building those dependencies. If you installed Rust via the official installers you will also have Cargo. To check the version of Cargo, simply type this below command.
 ```
 $ cargo --version
