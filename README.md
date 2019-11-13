@@ -157,7 +157,7 @@ A regular expression, regex or regexp, sometimes called a rational expression, i
 
 For Rust programming language regex, refer to the documentation : https://docs.rs/regex/1.3.1/regex/
 
-A concept of regex by using Atom text editor, can refer to the explanation by **Corey Schafer** YouTube channel by the title **_Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text_**
+A concept of regex by using Atom text editor, can refer to the explanation by **Corey Schafer** YouTube channel by the title **_Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text_** : 
 https://www.youtube.com/watch?v=sa-TUpSx1JA&t=11s
 
 <a name="github"></a>
