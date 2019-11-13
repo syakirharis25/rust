@@ -3,9 +3,10 @@ My works related to Rust programming language.
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
 
-# Table of Contents
-1. [Introduction](#introduction)
-1. [Rust Programming Language Books](#books)
+## Table of Contents
+1. [Introduction.](#introduction)
+2. [Official references websites.](#websites)
+3. [Rust Programming Language Books](#books)
 
 <a name="introduction"></a>
 ## Introduction
@@ -14,6 +15,9 @@ Rust is an open-source systems programming language created by Mozilla and a com
 Rust was built from scratch and incorporates elements from tried-and-true systems programming languages and modern programming language design. It fuses the expressive and intuitive syntax of high-level languages with the control and performance of a low-level language. It also prevents segmentation faults and guarantees thread safety. This empowers developers to write code that is ambitious, fast and correct.
 
 Rust makes systems programming accessible by combining power with ergonomics. Using it, programmers can make software that is less prone to bugs and security exploits. Under the hood, it includes powerful features such as zero-cost abstractions, safe memory management, fearless concurrency and more.
+
+<a name="websites"></a>
+## Official references websites
 
 Official website : https://www.rust-lang.org
 
