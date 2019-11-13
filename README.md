@@ -6,6 +6,7 @@ My works related to Rust programming language.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#websites)
+3. [Rust compiler : rustc.](#compiler)
 3. [Rust Programming Language Books](#books)
 
 <a name="introduction"></a>
@@ -18,7 +19,6 @@ Rust makes systems programming accessible by combining power with ergonomics. Us
 
 <a name="websites"></a>
 ## Official references websites
-
 Official website : https://www.rust-lang.org
 
 Official development blog : https://blog.rust-lang.org
@@ -47,8 +47,7 @@ United States of America
 ```
 Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
----
-
+## Rust compiler : rustc
 rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable. To check the version of your Rust compiler, simply type this below command.
 ```
 $ rustc --version
