@@ -152,8 +152,6 @@ A module is a collection of items: functions, structs, traits, impl blocks, and 
 
 <a name="github"></a>
 ## GitHub formatting
----
-
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 ```diff
 - text in red
