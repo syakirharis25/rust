@@ -172,6 +172,20 @@ Or use this command to utilize HTML adjustment; the width and height will be aut
 List of GitHub markdown formatting
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Table of Contents formatting for GitHub
+```
+1. [ Description. ](#description)
+2. [ Usage. ](#usage)
+
+<a name="description"></a>
+## 1. Description
+sometext
+
+<a name="usage"></a>
+## 2. Usage
+sometext
+```
+
 <a name="books"></a>
 Rust Programming Language Books
 ---
