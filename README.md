@@ -9,9 +9,10 @@ My works related to Rust programming language.
 3. [Rust compiler : rustc.](#compiler)
 4. [Rust package manager : Cargo.](#cargo)
 5. [Rust library : crate.](#crate)
-5. [Regular expression : regex.](#regex)
-6. [GitHub formatting.](#github)
-7. [Rust programming language books.](#books)
+6. [Rust container : module](#module)
+7. [Regular expression : regex.](#regex)
+8. [GitHub formatting.](#github)
+9. [Rust programming language books.](#books)
 
 <a name="introduction"></a>
 ## Introduction
@@ -153,6 +154,10 @@ The edition key affects which edition your package is compiled with. Cargo will 
 A crate is a binary or library. The crate root is a source file that the Rust compiler starts from and makes up the root module of your crate.
 
 Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part. Refer to https://docs.rs documentation if using the previous version of dependencies, by typing the crate name you want to use in your Rust project.
+
+<a name="module"></a>
+## Rust container : module
+A module is a container for zero or more items. A module item is a module, surrounded in braces, named, and prefixed with the keyword mod. A module item introduces a new, named module into the tree of modules making up a crate. Modules can nest arbitrarily.
 
 A module is a collection of items: functions, structs, traits, impl blocks, and even other modules. By default, the items in a module have private visibility, but this can be overridden with the **pub** modifier. Only the public items of a module can be accessed from outside the module scope.
 
