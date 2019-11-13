@@ -1,14 +1,30 @@
 # Rust Programming Language
-My works related to Rust programming language. 
+My works related to Rust programming language.
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
 
+## Table of Contents
+1. [Introduction.](#introduction)
+2. [Official references websites.](#websites)
+3. [Rust compiler : rustc.](#compiler)
+4. [Rust package manager : Cargo.](#cargo)
+5. [Rust library : crate.](#crate)
+6. [Rust container : module](#module)
+7. [Regular expression : regex.](#regex)
+8. [GitHub Atom.](#atom)
+8. [GitHub formatting.](#github)
+9. [Rust programming language books.](#books)
+
+<a name="introduction"></a>
+## Introduction
 Rust is an open-source systems programming language created by Mozilla and a community of volunteers, designed to help developers create fast, secure applications which take full advantage of the powerful features of modern multi-core processors. It prevents segmentation faults and guarantees thread safety, all with an easy-to-learn syntax.
 
 Rust was built from scratch and incorporates elements from tried-and-true systems programming languages and modern programming language design. It fuses the expressive and intuitive syntax of high-level languages with the control and performance of a low-level language. It also prevents segmentation faults and guarantees thread safety. This empowers developers to write code that is ambitious, fast and correct.
 
 Rust makes systems programming accessible by combining power with ergonomics. Using it, programmers can make software that is less prone to bugs and security exploits. Under the hood, it includes powerful features such as zero-cost abstractions, safe memory management, fearless concurrency and more.
 
+<a name="websites"></a>
+## Official references websites
 Official website : https://www.rust-lang.org
 
 Official development blog : https://blog.rust-lang.org
@@ -37,13 +53,15 @@ United States of America
 ```
 Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
----
-
+<a name="compiler"></a>
+## Rust compiler : rustc
 rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable. To check the version of your Rust compiler, simply type this below command.
 ```
 $ rustc --version
 ```
 
+<a name="cargo"></a>
+## Rust package manager : Cargo
 Cargo manages three things: building our code, downloading the dependencies our code needs, and building those dependencies. If you installed Rust via the official installers you will also have Cargo. To check the version of Cargo, simply type this below command.
 ```
 $ cargo --version
@@ -132,13 +150,39 @@ edition = '2018'
 
 The edition key affects which edition your package is compiled with. Cargo will always generate packages via **_cargo new_** with the **edition** key set to the latest edition. Setting the edition key in **[package]** will affect all targets/crates in the package, including test suites, benchmarks, binaries, examples, etc.
 
+<a name="crate"></a>
+## Rust library : crate
+A crate is a binary or library. The crate root is a source file that the Rust compiler starts from and makes up the root module of your crate.
+
 Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part. Refer to https://docs.rs documentation if using the previous version of dependencies, by typing the crate name you want to use in your Rust project.
+
+<a name="module"></a>
+## Rust container : module
+A module is a container for zero or more items. A module item is a module, surrounded in braces, named, and prefixed with the keyword mod. A module item introduces a new, named module into the tree of modules making up a crate. Modules can nest arbitrarily.
 
 A module is a collection of items: functions, structs, traits, impl blocks, and even other modules. By default, the items in a module have private visibility, but this can be overridden with the **pub** modifier. Only the public items of a module can be accessed from outside the module scope.
 
-GitHub formatting
----
+<a name="regex"></a>
+## Regular expression : regex
+A regular expression, regex or regexp, sometimes called a rational expression, is a sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
+For Rust programming language regex, refer to the documentation : https://docs.rs/regex/1.3.1/regex/
+
+List of usual regex expressions : https://projects.lukehaas.me/regexhub/
+
+A concept of regex by using Atom text editor, can refer to the explanation by **Corey Schafer** YouTube channel by the title **_Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text_** : 
+https://www.youtube.com/watch?v=sa-TUpSx1JA&t=11s
+
+<a name="atom"></a>
+## GitHub Atom
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications using Chromium and Node.js. It is written in CoffeeScript and Less.
+
+Official website of GitHub atom : https://atom.io
+
+If you want to close all the tabs in Atom, press [Ctrl] + [K], then [Ctrl] + [W] on your keyboard.
+
+<a name="github"></a>
+## GitHub formatting
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 ```diff
 - text in red
@@ -169,6 +213,20 @@ Or use this command to utilize HTML adjustment; the width and height will be aut
 List of GitHub markdown formatting
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Rust Programming Language Books
----
+Table of Contents formatting for GitHub
+```
+1. [ Description. ](#description)
+2. [ Usage. ](#usage)
+
+<a name="description"></a>
+## 1. Description
+sometext
+
+<a name="usage"></a>
+## 2. Usage
+sometext
+```
+
+<a name="books"></a>
+## Rust programming language books
 <img src="rust books.jpg" width="500">
