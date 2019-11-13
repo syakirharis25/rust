@@ -8,6 +8,7 @@ My works related to Rust programming language.
 2. [Official references websites.](#websites)
 3. [Rust compiler : rustc.](#compiler)
 4. [Rust package manager : Cargo.](#cargo)
+5. [GitHub formatting.](#github)
 5. [Rust Programming Language Books](#books)
 
 <a name="introduction"></a>
@@ -149,7 +150,8 @@ Before editing the Cargo.toml file, first check for the crate dependencies using
 
 A module is a collection of items: functions, structs, traits, impl blocks, and even other modules. By default, the items in a module have private visibility, but this can be overridden with the **pub** modifier. Only the public items of a module can be accessed from outside the module scope.
 
-GitHub formatting
+<a name="github"></a>
+## GitHub formatting
 ---
 
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
