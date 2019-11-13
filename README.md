@@ -11,6 +11,7 @@ My works related to Rust programming language.
 5. [Rust library : crate.](#crate)
 6. [Rust container : module](#module)
 7. [Regular expression : regex.](#regex)
+8. [GitHub Atom.](#atom)
 8. [GitHub formatting.](#github)
 9. [Rust programming language books.](#books)
 
@@ -171,6 +172,14 @@ List of usual regex expressions : https://projects.lukehaas.me/regexhub/
 
 A concept of regex by using Atom text editor, can refer to the explanation by **Corey Schafer** YouTube channel by the title **_Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text_** : 
 https://www.youtube.com/watch?v=sa-TUpSx1JA&t=11s
+
+<a name="atom"></a>
+## GitHub Atom
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications using Chromium and Node.js. It is written in CoffeeScript and Less.
+
+Official website of GitHub atom : https://atom.io
+
+If you want to close all the tabs in Atom, press [Ctrl] + [K], then [Ctrl] + [W] on your keyboard.
 
 <a name="github"></a>
 ## GitHub formatting
