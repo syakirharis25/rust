@@ -8,9 +8,10 @@ My works related to Rust programming language.
 2. [Official references websites.](#websites)
 3. [Rust compiler : rustc.](#compiler)
 4. [Rust package manager : Cargo.](#cargo)
+5. [Rust library : crate.](#crate)
 5. [Regular expression : regex.](#regex)
 6. [GitHub formatting.](#github)
-7. [Rust Programming Language Books](#books)
+7. [Rust programming language books.](#books)
 
 <a name="introduction"></a>
 ## Introduction
@@ -146,6 +147,10 @@ edition = '2018'
 ```
 
 The edition key affects which edition your package is compiled with. Cargo will always generate packages via **_cargo new_** with the **edition** key set to the latest edition. Setting the edition key in **[package]** will affect all targets/crates in the package, including test suites, benchmarks, binaries, examples, etc.
+
+<a name="crate"></a>
+## Rust library : crate
+A crate is a binary or library. The crate root is a source file that the Rust compiler starts from and makes up the root module of your crate.
 
 Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part. Refer to https://docs.rs documentation if using the previous version of dependencies, by typing the crate name you want to use in your Rust project.
 
