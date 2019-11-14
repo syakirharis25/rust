@@ -1,0 +1,11 @@
+C:\Users\syaki\onedrive\desktop\rust\http-get\target\rls\debug\deps\serde_urlencoded-ae6ec5c93eb9ba74.rmeta: C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\lib.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\de.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\mod.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\key.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\pair.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\part.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\value.rs
+
+C:\Users\syaki\onedrive\desktop\rust\http-get\target\rls\debug\deps\serde_urlencoded-ae6ec5c93eb9ba74.d: C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\lib.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\de.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\mod.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\key.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\pair.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\part.rs C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\value.rs
+
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\lib.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\de.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\mod.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\key.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\pair.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\part.rs:
+C:\Users\syaki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\value.rs:

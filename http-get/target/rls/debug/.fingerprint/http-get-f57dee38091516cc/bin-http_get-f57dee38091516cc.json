@@ -1,0 +1,1 @@
+{"rustc":17017340741842641033,"features":"[]","target":13929309299640372987,"profile":14891217944882224483,"path":1036222786711178230,"deps":[[15054653698811099742,"reqwest",false,6329969525558209625]],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\http-get-f57dee38091516cc\\dep-bin-http_get-f57dee38091516cc"}}],"rustflags":[],"metadata":16699967939807690124}
