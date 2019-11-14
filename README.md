@@ -72,9 +72,9 @@ To create new Rust cargo project, in this case hello-world cargo project package
 $ cargo new hello-world --bin
 ```
 
-To open the newly created cargo project package folder, using Atom text-editor by GitHub, https://atom.io
+To open the newly created cargo project package folder, in this case **hello-world** folder, using Atom text-editor by GitHub, https://atom.io
 ```
-$ atom .
+$ atom hello-world
 ```
 
 To run the Rust cargo project, in this case hello-world cargo project package;
