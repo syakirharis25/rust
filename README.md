@@ -27,6 +27,8 @@ Rust makes systems programming accessible by combining power with ergonomics. Us
 ## Official references websites
 Official website : https://www.rust-lang.org
 
+Online Rust playground : https://play.rust-lang.org
+
 Official development blog : https://blog.rust-lang.org
 
 Official GitHub repository : https://github.com/rust-lang
