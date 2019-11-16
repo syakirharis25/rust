@@ -47,6 +47,8 @@ Companies currently using Rust programming language : https://www.rust-lang.org/
 
 Companies hiring for Rust programming language project development : https://rustjobs.io
 
+Most active Rust developers in GitHub : http://git-awards.com/users?language=rust
+
 ```
 Mozilla Headquarters
 331 E. Evelyn Ave.
