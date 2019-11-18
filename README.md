@@ -49,6 +49,8 @@ Companies hiring for Rust programming language project development : https://rus
 
 Most active Rust developers in GitHub : http://git-awards.com/users?language=rust
 
+Rust programming language was created by Graydon Hoare : https://github.com/graydon
+
 ```
 Mozilla Headquarters
 331 E. Evelyn Ave.
