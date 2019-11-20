@@ -3,7 +3,7 @@ My works related to Rust programming language.
 
 <img src="rust.svg" width="100"> <img src="mozilla.jpg" width="100">
 
-## Table of Contents
+## Table of Contents :rocket
 1. [Introduction.](#introduction)
 2. [Official references websites.](#websites)
 3. [Rust compiler : rustc.](#compiler)
