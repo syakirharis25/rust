@@ -62,7 +62,7 @@ Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
 <a name="installation"></a>
 ## 3. Rust installation
-To install Rust in Linux operating system, do this command.
+To install Rust in Linux operating system, open up the terminal by pressing **[Ctrl]** + **[Alt]** + **[T]** and type this command.
 ```
 $ curl https://sh.rustup.rs -sSf | sh
 ```
