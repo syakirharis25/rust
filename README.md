@@ -75,6 +75,10 @@ rustc is the compiler for the Rust programming language, provided by the project
 ```
 $ rustc --version
 ```
+If an error message `error: linker ``cc`` not found` appears after compiling Rust project then do this command.
+```
+$ sudo apt-get install -y gcc-4.8 cpp-4.8 gcc-multilib
+```
 
 <a name="cargo"></a>
 ## 5. Rust package manager : Cargo
