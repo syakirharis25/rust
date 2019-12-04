@@ -6,14 +6,15 @@ My works related to Rust programming language.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#websites)
-3. [Rust compiler : rustc.](#compiler)
-4. [Rust package manager : Cargo.](#cargo)
-5. [Rust library : crate.](#crate)
-6. [Rust container : module](#module)
-7. [Regular expression : regex.](#regex)
-8. [GitHub Atom.](#atom)
-8. [GitHub formatting.](#github)
-9. [Rust programming language books.](#books)
+3. [Rust installation.](#installation)
+4. [Rust compiler : rustc.](#compiler)
+5. [Rust package manager : Cargo.](#cargo)
+6. [Rust library : crate.](#crate)
+7. [Rust container : module](#module)
+8. [Regular expression : regex.](#regex)
+9. [GitHub Atom.](#atom)
+10. [GitHub formatting.](#github)
+11. [Rust programming language books.](#books)
 
 <a name="introduction"></a>
 ## 1. Introduction
@@ -59,15 +60,24 @@ United States of America
 ```
 Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
+<a name="installation"></a>
+## 3. Rust installation
+To install Rust in Linux operating system, do this command.
+```
+$ curl -sSf https://static.rust-lang.org/rustup.sh | sh
+```
+
+To install Rust in Microsoft Windows operating system, download `rustup-init.exe` file from https://www.rust-lang.org/tools/install
+
 <a name="compiler"></a>
-## 3. Rust compiler : rustc
+## 4. Rust compiler : rustc
 rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable. To check the version of your Rust compiler, simply type this below command.
 ```
 $ rustc --version
 ```
 
 <a name="cargo"></a>
-## 4. Rust package manager : Cargo
+## 5. Rust package manager : Cargo
 Cargo manages three things: building our code, downloading the dependencies our code needs, and building those dependencies. If you installed Rust via the official installers you will also have Cargo. To check the version of Cargo, simply type this below command.
 ```
 $ cargo --version
@@ -157,19 +167,19 @@ edition = '2018'
 The edition key affects which edition your package is compiled with. Cargo will always generate packages via **_cargo new_** with the **edition** key set to the latest edition. Setting the edition key in **[package]** will affect all targets/crates in the package, including test suites, benchmarks, binaries, examples, etc.
 
 <a name="crate"></a>
-## 5. Rust library : crate
+## 6. Rust library : crate
 A crate is a binary or library. The crate root is a source file that the Rust compiler starts from and makes up the root module of your crate.
 
 Before editing the Cargo.toml file, first check for the crate dependencies using https://crates.io search inbox and type in the name of the crate to check the latest version of the crate before editing the Cargo.toml **[dependencies]** part. Refer to https://docs.rs documentation if using the previous version of dependencies, by typing the crate name you want to use in your Rust project.
 
 <a name="module"></a>
-## 6. Rust container : module
+## 7. Rust container : module
 A module is a container for zero or more items. A module item is a module, surrounded in braces, named, and prefixed with the keyword mod. A module item introduces a new, named module into the tree of modules making up a crate. Modules can nest arbitrarily.
 
 A module is a collection of items: functions, structs, traits, impl blocks, and even other modules. By default, the items in a module have private visibility, but this can be overridden with the **pub** modifier. Only the public items of a module can be accessed from outside the module scope.
 
 <a name="regex"></a>
-## 7. Regular expression : regex
+## 8. Regular expression : regex
 A regular expression, regex or regexp, sometimes called a rational expression, is a sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
 For Rust programming language regex, refer to the documentation : https://docs.rs/regex/1.3.1/regex/
@@ -180,7 +190,7 @@ A concept of regex by using Atom text editor, can refer to the explanation by **
 https://www.youtube.com/watch?v=sa-TUpSx1JA&t=11s
 
 <a name="atom"></a>
-## 8. GitHub Atom
+## 9. GitHub Atom
 Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications using Chromium and Node.js. It is written in CoffeeScript and Less.
 
 Official website of GitHub atom : https://atom.io
@@ -188,7 +198,7 @@ Official website of GitHub atom : https://atom.io
 If you want to close all the tabs in Atom, press [Ctrl] + [K], then [Ctrl] + [W] on your keyboard.
 
 <a name="github"></a>
-## 9. GitHub formatting
+## 10. GitHub formatting
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 ```diff
 - text in red
@@ -234,5 +244,5 @@ sometext
 ```
 
 <a name="books"></a>
-## 10. Rust programming language books
+## 11. Rust programming language books
 <img src="rust books.jpg" width="500">
