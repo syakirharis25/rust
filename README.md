@@ -64,7 +64,7 @@ Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 ## 3. Rust installation
 To install Rust in Linux operating system, do this command.
 ```
-$ curl -sSf https://static.rust-lang.org/rustup.sh | sh
+$ curl https://sh.rustup.rs -sSf | sh
 ```
 
 To install Rust in Microsoft Windows operating system, download `rustup-init.exe` file from https://www.rust-lang.org/tools/install
