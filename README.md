@@ -60,6 +60,9 @@ United States of America
 ```
 Mozilla Headquarters Map : https://goo.gl/maps/dy6SE
 
+**_Rust articles_**
+Zero-cost futures in Rust : http://aturon.github.io/blog/2016/08/11/futures/ <br />
+
 <a name="installation"></a>
 ## 3. Rust installation
 To install Rust in Linux operating system, open up the terminal by pressing **[Ctrl]** + **[Alt]** + **[T]** and type this command.
