@@ -13,8 +13,10 @@ My works related to Rust programming language.
 7. [Rust container : module](#module)
 8. [Regular expression : regex.](#regex)
 9. [GitHub Atom.](#atom)
-10. [GitHub formatting.](#github)
-11. [Rust programming language books.](#books)
+10. [GitHub formatting.](#githubformatting)
+11. [GitHub notes.](#githubnotes)
+12. [Rust programming language books.](#books)
+13. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction
@@ -251,6 +253,35 @@ sometext
 sometext
 ```
 
+<a name="githubnotes"></a>
+## 11. GitHub notes.
+Clone the current GitHub remote repository contents into local machine.
+```
+$ git clone https://github.com/syakirharis25/rust.git
+$ cd rust/
+$ git remote -v
+$ git status
+```
+
 <a name="books"></a>
-## 11. Rust programming language books
+## 12. Rust programming language books
 <img src="rust books.jpg" width="500">
+
+<a name="calculation"></a>
+## 13. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+D                              444            946              0           3810
+JSON                           580              0              0            580
+Rust                            43            136             94            487
+TOML                            40             80             40            246
+Markdown                         1             62              0            194
+Python                           1              0              0              1
+SVG                              1              0              0              1
+-------------------------------------------------------------------------------
+SUM:                          1110           1224            134           5319
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
