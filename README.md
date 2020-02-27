@@ -266,6 +266,7 @@ $ git status
 <a name="books"></a>
 ## 12. Rust programming language books
 <img src="rust books.jpg" width="500">
+
 **The Rust Programming Language** by Steve Klabnik and Carol Nichols <br />
 **Programming Rust: Fast, Safe Systems Development** by Jim Blandy and Jason Orendorff <br />
 
